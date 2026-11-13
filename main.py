@@ -1,1 +1,140 @@
-import lzma;from base64 import b85decode as d;exec(lzma.decompress(d('T>t<81poj4|NsC0{{S?bN@uuIJag?dgCmm({PnjSlLmLW*M!OBU~hk?J_+T(h8g3vtP?7FzCaHf%RB0W^I{S(327F<c%WqU=-!{XZ>AMChGua}OAhkg+7NbEM~g%FN<f%M=vx*=j<^3-pSZ+Wk9U4TbH*~QutZZ2#o11?+-c(wbK=6BjALZ(xv{*Xm^&kKSn>opYW=vX^2UFouJw{4=S$dXrH#$-p?_36Ek(K(;sseiQ3p9dAjDXdKS*y4f86b%Aa}va>Dlg!PgG#^OO>;?UfTjsDLR8w#BNw>QbF^+*V58n67Jt|qh79|{&8!SOQAGth0`As9ivA6*Uj3mCiojq@`F){H~-_+RMeL_fmvlJcBa6-#{#rd&fl~~mBk|W-mTsKG_vh&u#hYpCkMN6ezKu`hc0#%V}AvW+$eG*Gpw5U>&@3AZ5BlQ%&UQvY5xy|j8B>WreF>VCTWbp|F6swnqv}WSRyQ3Q-2;I-uL)|iyaEi|A)}ps!4vw(eJ-eeAG>b_ysyz6WcIHjoWS>b=781AF(qxIsxT@quR=IW_3v6VHaR4+|fzk3uumP!=RBcoq@5-W0$l$Vv#yYD@Lb1yoIQOrtT>WlsObgFJ3r}tZ33A@RivP%C{I5TrDEK5axh-PC~t>P!PAhdA_)!Kr+6u8lC29&L7c~f6HD2M-fDHO*oJ|u!d-Le~ECdM>-4xJ(;^UGXqskwFBpTO*eVS1^Gs*AL3d~y}oX@O@VA@#PU=9)3zA6Xmx%H^&)DrOqomkP+wOzd}^PfbwQZ!n_N&_-%8tSE!X)vRq>a%N`|Gjsg92|5gp$K%e!o0L0&?A%$se%R--dT<fGmxJWtx~Gc%9^)WIwE>)!{@jGMFP@$+PwFc31APE>6a$T&#ex1l$}aVoNsR9PzdH99M4vZF?7;0~FbBl1X7zf+7O7YM}D<#QuRoC9aBsP$?It5|I}nDC`Frvp4I+o2SR9twMa<Sp&2enWmSW7aq>8M+u_0-#Ru)(UrZNV9#uT%mgjN>8CjHD7_6j9FIurK)OI{V!tuz={)qn<vEO#Gg|dD4ZL(sj0OgP{6nNtNqsft?0B=^>Enb3m3;w{)K0|ON+EQXX$qPgnmY;3%d*~?O8pkyGB2S!rms>3@_V_&M#Fk$hU2NkD#^^g_Sv1XS_ov8{%fjNF!gjh+(7Ms);tB3BQtQENx1wD$4hGzv7<-6aNYlU5Kv}6sQjc(KbNeW^cZyC~m*Z56S_kP;4ZIvv_yu&enbrN=&EX#Vndn&~a{4c^?gYJ<kMipx(QyF%2KFmRi!%)QlO9sQ)+{gjd^_j1H;|ONs!ZgxL&BocFjH{&K_Uk(PSx?<l#Ye(^xBTrWpl>jDyV@^o%n`mi^sX{x~GxAllw5#sq&4Uc9@Y@Q>K2fN`zqg<6Pgs+dnFHo2a!^tBMx)0~q+sWkP0DgwFTUOKNE)jk6-*eYnk>f-c1*p6WI1M6~f-j71>Gh_9EIaUV_h9c7)D^_6xwhM1Q_33yKFdLfearMS)>Pio^}ay6yU1DXRIXh7h{JgJnp(LDq02p58MsE7l}sqKAQM_A!W^7)uu_+j^yRMGTmDyR`+c!iB5vcHae0VOQG_`v<K96&P_1m`w1{7UE6xtc|8cvi4<m!dcqs>FvP7Gfer)VjJC?j0lX`OBmMs;@uV!KIC5npd+eSp3(H})zsWfY2pu7T}HAd}5ehpHHuU$m*1PzThR`r{5Wb$LM)t*rpPko{Hc;;no_Zr8g$Q#(#_^oHLY_&~eabJE#+}kyPXe+(+7V+Q%+XSr1RIUFk0Nz+?#%CiZI{=QtC}a@rwsn#P#*V(;A`&>xZ26`c+s4F}_sFbC7@+*<$|9kM!oWmsRHBVIrS&2doN6^H|LD@lJ+A>Jcik7w8E0OcG?XPd3oghDD&H_0{p@Qr4&0{rwjL78hZY5{>4zd;3xza7*nxN~mkaBu2^(FL0pcLb_G`lA%M@yX-L{tW5~eW_UHMdOyroef;?%|KC1il7-2!{`zKTHQrE8yR5(mfur`exfHpV?W#Xdr}CqJSjMM!=HpGB6jGek4=WPz#Jp)reA!5@VVsbd{Hz9ma}o9^}ImzOX_(|6A25`6zvI89MfDX|}J3O=*jrj%cZGGNEe+*l3#REPLdzaNLY_9<zHb<rnV@+HrkNU1>V!!KRMn_729XnISqz#A76R5K>4?^PY#fM(?%j@d7kan#T6NSL-lBpNJmSi<9aPH^b?LtZv>4PiNwphDv+cEzb4zlmZEi#8(k1=Dh&IdsngNC&nfYmX3bdVr)CEg`|#WE-VBOVuTFXOqKJibaGxDvE<W?lGaJPosJhcuF^iJsMo`r<wKjT*uS%7py*qc9MMnlV(IXWr1Sd8VaJE|K?*_fGS|S-An*5_hUa1w{C#{)Q;;$ZQCtjJ&u}9xrhTt5M+C0wQ%FndsZTkGdmt5iz<}+JS`edx~)8+`+1JXJ90skdfCdIR9qweZY(0OSWpixI&RZQKBb4jyzW*+Gnh9v@F+*GqS}mf+7rL^?)zR>u`C*bs>_k>1*(JAO4MIe=lw)3HdtrF-82t#i9+`zA%=~}F0kBKIUuBncoa}l_he^voWt&js@Vsr1;$eFzj&kZnF<~`05oIA_YaNy0)PeY&hkP};S?cS8IdQ51Gl-Zh7RS|T1%3k0LQvO0_v3-?|=^r6Z$hEu!qLoLP48v3R6z&UdN6?LB_^OF`F;ih(erEfA7Nnyt?cbbRV!=)u5#OWz{<Sj|m>TXMKkMS*{Kj_R^g`s`Jf}fOG;0l-0iftYI#i4RiJ*T|eG-B0IPv2oYrSvGy;W3OFMc8qY0f8d~gwF(>MA;W@?P$_%~ow>>Cj*_-01R^N@OX8tep?MGqBS@d$DhC_J(6p!jfpGc}FHgj8WN=$)(+U7>${G)+OEAz9)t$;yzHe%II$uIMiq|g^b^W3d)Q0n}Jl`ZT0yqA<h6_AQZZ4&M9_kJ__tdg84t|kj9f+Y_F*OeO~QvpLW2_BMX_6Mn%VuEo9en=G1EGn#SmX^%`r=2$pQ%I=IDWSgCs9(r$Ohy|V;%zTNy-SKvHGpy*_!Mn8w%4Er)BF1o2PY^S7j=qG6Uy<*Ui$+=gdnA^dkBRR8D~})L<-wAu1E+a=hE9ut=FR^9$S7j-Mzl>;M^AAm7#tSQ4~E$Q0_}RwoLIhokXRVJ8iavp!5I8516w>*c0<gT;-jRZ6SUi4;%EXpbLsiq)>xyM8H}w4P4q=c4R>ricTl;PweT5^9F5rBspN{nHv53Bo-MHIW!p{?(@Q2rf6URjOp+BNGfIZa5f%XkDdTS2uPU0nqFfqUGD$Y&@X(rg-Qxq{`ko*@zKa+Q2vW1g&2JiwsiETZ`$&)S7sLCSj(4cl1#ZI=X)J>UAO@2a6CBtsI}yGOClei7WhebN;X{3N!-zt93#8AGv9Wt2rci9o!KkiJPRg%!mb7Zc!U$A!ck5jY-W3dId1;UmeOYxw}iAkk9m-2h8depsdZqK&XAIh1Pu+)N+UQP8ZjNmQ_4za4&`PaE~C&BNVr=O8!I{Ns*ga;5?iu%vp@g5Jzx3QAA199px(6CYM}B5<~%2@`ui~_5EJnj4p&oWqC43;?{6Xt8yr4%mF|9;@CGytzyZCt^gP);rA71c7hG?JRvA1JNGqL;A!1_w-*6qd^%(HnfuEcg&#t5^%-EKa45(3eDjm&Y98iY{ju3^Bbyy>#-ta<8kq>~!qIEt;D~<CEz76V$=+II<T--Yj@?tnqEj*@|R$JzmZQ3etyuYYgPjBfnOfJh0i?J6=FA_P1k}jcfew!|^&^oqYRg@3Wqn|}(q>H=u;66dJB(yvaN;Hgbe7w(Rg2LUk`+SVbl^)hI%RqRDou<%4F4Wx)XSBtAnR+1Se>W;`p?gdx?~4Bi05~Ym(=CTEqY&~mXk9fTqyKE;bOYb_z7$Z#+g+>wxsk`IG12An(f>sVyER~_`W2P`5E)+dq~?p2ixY?oM`jJ-QVN*|Wo+(oC_OA)U*G{v*x^zcW;jo!Eii*}Xs5*gbFi1DJh0dh;z4y}UufK6`egl*^)+1D#giaWx>Q~N^6g57'),format=2))
+import os,json,urllib.request as w
+V=dict(P=100,N=320,B=330,R=500,Q=900,K=0)
+PS=dict(P="KKKKUUUUMMOQLLMPKKKOLJIKLMMGKKKK",N="ACEECGKKEKMNELNOEKNOELMNCGKLACEE",R="KKKKLMMMJKKKJKKKJKKKJKKKJKKKKKKL",Q="GIIJIKKKIKLLJKLLKKLLILLLIKLKGIIJ",K="ECCAECCAECCAECCAGEECIGGGOOKKOQMK")
+T={k:[(ord(c)-75)*5 for c in s] for k,s in PS.items()};T['B']=T['N']
+NO=(-19,-8,12,21,8,-12,19,-21)
+KO=(-11,-9,9,11,-10,-1,1,10)
+BO=KO[:4];RO=KO[4:]
+NK=NO+KO
+D=dict(N=NO,B=BO,R=RO,Q=BO+RO,K=KO)
+I=10**6
+B0=' '*20+' rnbqkbnr '+' pppppppp '+' ........ '*4+' PPPPPPPP '+' RNBQKBNR '+' '*20
+def Vv(p,i):
+ f=i%10-1
+ return V[p]+T[p][(i//10-2)*4+min(f,7-f)]
+def At(b,q):
+ if b[q-9]=='p' or b[q-11]=='p':return 1
+ for d in NK:
+  if b[q+d]==('n' if d in NO else 'k'):return 1
+ for d in KO:
+  j=q+d;a='bq' if d in BO else 'rq'
+  while b[j]!=' ':
+   if b[j]!='.':
+    if b[j] in a:return 1
+    break
+   j+=d
+ return 0
+def Ap(g,i,j):
+ if j<29:
+  for r in 'QRBN':g.append((i,j,r))
+ else:g.append((i,j,''))
+def G(p,co=False):
+ b,e,c,k0=p[0],p[3],p[2],p[4][0]
+ g=[]
+ for i,x in enumerate(b):
+  if not x.isupper():continue
+  if x=='P':
+   j=i-10
+   if b[j]=='.':
+    if j<29:Ap(g,i,j)
+    elif not co:
+     g.append((i,j,''))
+     if i//10==8 and b[i-20]=='.':g.append((i,i-20,''))
+   for d in (-11,-9):
+    j=i+d
+    if b[j].islower() or j==e:Ap(g,i,j)
+  else:
+   for d in D[x]:
+    j=i+d
+    while b[j]!=' ':
+     if b[j].isupper():break
+     if not co or b[j]!='.':g.append((i,j,''))
+     if b[j]!='.' or x in 'NK':break
+     j+=d
+ if not co and not At(b,k0):
+  if c&1 and set(b[k0+1:98])=={'.'} and not At(b,k0+1) and not At(b,k0+2):g.append((k0,k0+2,''))
+  if c&2 and set(b[92:k0])=={'.'} and not At(b,k0-1) and not At(b,k0-2):g.append((k0,k0-2,''))
+ return g
+def Mk(p,m):
+ b,s,c,e,k=p
+ i,j,r=m
+ x=b[i];y=b[j]
+ d=-Vv(x,i)
+ if y!='.':
+  d+=Vv(y.upper(),119-j)
+  if y=='r':c&={21:11,28:7}.get(j,15)
+ d+=Vv(r or x,j)
+ if x=='P' and j==e:d+=Vv('P',109-j)
+ if x=='K' and abs(j-i)==2:
+  f,t=(98,j-1) if j>i else (91,j+1)
+  d+=-Vv('R',f)+Vv('R',t)
+ if x=='K':c&=12
+ elif x=='R':c&={91:13,98:14}.get(i,15)
+ ne=(i+j)//2 if x=='P' and abs(j-i)==20 else -1
+ nk=(j,k[1]) if x=='K' else k
+ l=list(b);l[i]='.';l[j]=r or x
+ if x=='P' and j==e:l[j+10]='.'
+ if x=='K' and abs(j-i)==2:l[f]='.';l[t]='R'
+ return (''.join(l),s+d,c,ne,nk)
+def R(p):
+ b,s,c,e,k=p
+ return (b[::-1].swapcase(),-s,(c>>2|c<<2)&15,119-e if e+1 else -1,(119-k[1],119-k[0]))
+N=0;X=False;TT={};RM=[0]
+def S(p,d,al,be,pl):
+ global N,X
+ N+=1;X=N>=BG
+ if X:return 0
+ b,s,c,e,k=p
+ ky=(b,c,e)
+ en=TT.get(ky);tm=0
+ if en:
+  tm=en[3]
+  if en[0]>=d and (en[2]==0 or en[2]==1 and en[1]>=be or en[2]==2 and en[1]<=al):return en[1]
+ q=d<=0;ic=At(b,k[0]);ao=al
+ if q and not ic:
+  if s>=be:return be
+  al=max(al,s)
+ g=sorted(G(p,q and not ic),key=lambda m:-((10**7 if m==tm else 0)+(V[b[m[1]].upper()]*10-V[b[m[0]]] if b[m[1]]!='.' else 0)+(9000 if m[2] else 0)))
+ bs=-I;bm=0;a=al
+ for n,m in enumerate(g):
+  c0=Mk(p,m)
+  if At(c0[0],c0[4][0]):continue
+  ch=R(c0)
+  if n==0 or q:
+   sc=-S(ch,d-1,-be,-a,pl+1)
+  else:
+   i,j,r=m
+   rd=d>=3 and n>=3 and b[j]=='.' and j!=e and not r and not ic
+   sc=-S(ch,d-1-rd,-a-1,-a,pl+1)
+   if sc>a:sc=-S(ch,d-1,-be,-a,pl+1)
+  if X:return 0
+  if sc>bs:
+   bs=sc;bm=m
+   if sc>a:
+    a=sc
+    if a>=be:break
+ if bs==-I:return -I+pl if ic else a if q else 0
+ if pl==0:RM[0]=bm
+ sc=bs if not q or ic else a
+ TT[ky]=(d,sc,1 if a>=be else 2 if sc<=ao else 0,bm)
+ return sc
+H=lambda a,y:json.load(w.urlopen(a,json.dumps(y).encode()))
+def v(u,n):
+ f=ord(u[0])-10*int(u[1])+4;t=ord(u[2])-10*int(u[3])+4
+ if n&1:f,t=119-f,119-t
+ return (f,t,u[4].upper() if len(u)>4 else '')
+def main():
+ global N,X,BG
+ u=os.environ["MAKEFUN_ENV_URL"]
+ while (g:=H(u+"/game",{}))["status"]!="done":
+  p=(B0,0,15,-1,(95,25))
+  for n,y in enumerate(g["moves"]):p=R(Mk(p,v(y,n)))
+  N=0;X=False;BG=120000;TT.clear();RM[0]=0
+  for d in range(1,21):
+   S(p,d,-I,I,0)
+   if X:break
+  f,t,pr=RM[0]
+  n=len(g["moves"])
+  if n&1:f,t=119-f,119-t
+  H(u+"/move",{"game":g["game"],"move":f"{chr(f%10+96)}{10-f//10}{chr(t%10+96)}{10-t//10}{pr.lower() if pr else ''}"})
+main()
